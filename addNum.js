@@ -1,4 +1,4 @@
 const addNum = (a, b) =>{
     console.log(a+b);
 }
-addNum(3,8);
+addNum(3,6);
